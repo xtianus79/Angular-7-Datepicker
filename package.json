@@ -1,11 +1,11 @@
 {
-  "name": "angular2-material-datepicker",
+  "name": "angular7-material-datepicker",
   "version": "1.0.0",
-  "author": "Kevin O'Leary",
+  "author": "Christian Holes",
   "license": "MIT",
   "keywords": [
-    "angular2",
-    "angular 2",
+    "angular7",
+    "angular 7",
     "ng2",
     "datepicker",
     "material"
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/koleary94/Angular-2-Datepicker"
+    "url": "https://github.com/xtianus79/Angular-7-Datepicker"
   },
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
